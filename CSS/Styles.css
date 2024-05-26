@@ -1,0 +1,16 @@
+h1{
+    color: red 
+}
+#ab{
+    font-size: 105px;
+    color: blue;
+    background-color: aqua;
+    border: 4px solid black;
+
+}
+.we{
+    font-size: 105px;
+    color: rgb(196, 196, 54);
+    background-color: rgb(151, 26, 107);
+    border: 4px solid rgb(175, 114, 114);
+}

@@ -1,0 +1,34 @@
+#Calculator{
+    width: 250px;
+    background-color: black;
+    padding: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 10px;  
+}
+
+h1{
+    color: aliceblue;
+}
+
+#Display{
+    width: 100%;
+    padding: 8px;
+    margin: 10px;
+}
+
+#clearbutton{
+    border-radius: 100%;
+    width: 50px;
+    height: 50px;
+}
+
+#btn{
+    border-radius: 100%;
+    width: 50px;
+    height: 50px;
+}
+
+#button{
+    width: 100%;
+}
